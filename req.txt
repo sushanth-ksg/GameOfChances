@@ -1,0 +1,4 @@
+title: refresh me (in the center)
+sub-titles: player 1 and player 2 (seperated in center)
+two dice images 
+contact line at the end (in center)
